@@ -4,10 +4,9 @@ One Paragraph of project description goes here.
 
 # About the Challenge
 
-Our challenge was to replicate the static comp provided by the 
+Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here:
 
-![Static Comp](/images/static-comp-challenge-image.png)
-Format: ![Static Comp]
+![Static Comp](images/static-comp-challenge-image.png)
 
 # About Colorado CRUSH
 
