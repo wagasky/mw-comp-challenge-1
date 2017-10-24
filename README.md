@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here. Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here:
 
-![alt text](/images/static-comp-challenge-image.png "Static Comp")
+![alt text](images/static-comp-challenge-image.png "Static Comp")
 
 
 # About Colorado CRUSH
