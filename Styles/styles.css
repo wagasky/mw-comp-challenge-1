@@ -1,0 +1,295 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+label {
+  display: none;
+}
+
+/*    input[type='radio']:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        top: -2px;
+        left: -1px;
+        position: relative;
+        background-color: #d1d3d1;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid white;
+    }
+
+    input[type='radio']:checked:after {
+        width: 15px;
+        height: 15px;
+        border-radius: 15px;
+        top: -2px;
+        left: -1px;
+        position: relative;
+        background-color: #ffa500;
+        content: '';
+        display: inline-block;
+        visibility: visible;
+        border: 2px solid white;
+    }*/
+
+/*#carousel-item-1[type='radio']input:after {
+  background-color: #FFFFFF;
+  visibility: visible;
+  border: none;
+}
+
+.carousel-item-1[type='radio']input:checked:after {
+  background-color: #EEEEEE;
+  visibility: visible;
+  border: none;
+}*/
+
+.carousel {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+img {
+  height: 10vh;
+  width: 10vh;
+  padding-bottom: 15px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+h2 {
+  font-size: 14px;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  padding: 20px 0px 15px 0px;
+}
+
+button {
+  border: 2px solid;
+  background-color: transparent;
+  width: 120px;
+  height: 45px;
+  color: #FFFFFF;
+  font-size: 16px;
+  letter-spacing: .25px;
+  margin: 0px 10px 0px 0px;
+}
+
+#logo {
+  height: 13vh;
+  width: 13vh;
+}
+.arrow {
+  height: 5vh;
+  width: 5vh;
+  position: absolute;
+  margin: 5px;
+}
+/*add in a class to differentiate from standard img*/
+
+.right-arrow {
+  top: 50%;
+  right: 0;
+
+}
+.left-arrow {
+  filter: FlipH;
+  transform: scaleX(-1);
+  top: 50%;
+  left: 0;
+}
+
+#grandparent {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+
+#parent-1 {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 60%;
+  height: 100vh;
+}
+
+#parent-2 {
+  width: 40%;
+  background-image: url("../images/mural-1_720-1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+/*  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;*/
+  position: relative;
+}
+
+.stacking-tile {
+  background-color: blue;
+  color: #FFFFFF;
+  height: 33.3333%;
+/*  width: 20vw;
+  height: 20vw;*/
+  width: 33.33333%;
+  box-sizing: border-box;
+/*  flex: 1 1 auto;*/
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#title-tile {
+  width: 66.666666%;
+  background-color: #E8002A;
+  color: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px 30px 10px 20px;
+}
+
+#tile-4 {
+background-color: #E8002A;
+color: #FFFFFF;
+}
+
+#tile-3 {
+background-color: #C97C00;
+color: #FFFFFF;
+}
+
+
+#tile-7 {
+background-color: #F79AA5;
+color: #FFFFFF;
+}
+
+#tile-2,
+#tile-6 {
+  background-color: #008FB2;
+  color: #FFFFFF;
+}
+
+#tile-1,
+#tile-5 {
+  background-color: #DDB384;
+  color: #FFFFFF;
+}
+
+
+@media screen and (max-width: 1100px) {
+  
+  #parent-1,
+  #parent-2 {
+    width: 50%;
+  }
+
+  .stacking-tile {
+  background-color: blue;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  min-height: 33.3333333vh;
+  min-width: 40%;
+  width: 50%;
+}
+
+  #title-tile {
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width: 700px) {
+
+  .stacking-tile {
+  width: 33.3333333vw
+  height: 33.3333333vw;
+  }
+
+  #grandparent {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+
+  #parent-1 {
+    /*position: relative;*/
+    width: 100%;
+    height: 40vh;
+  }
+
+  #parent-2 {
+    width: 100%;
+    min-height: 300px;
+    background-size: cover;
+    background-position: top;
+  }
+
+  #tile-7 {
+    width: 100%;
+  }
+
+  #title-tile {
+  height:25vh;
+  }
+
+}
+
+@media screen and (max-width: 320px) {
+
+    button {
+    height: 30px;
+    font-size: 13px;
+    justify-content: center;
+  }
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .arrow {
+  height: 5vh;
+  width: 5vh;
+  }
+
+  #grandparent {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: flex-start;
+    min-width: 290px;
+  }
+
+  #parent-1 {
+    width: 100%;
+  }
+
+  #parent-2 {
+    width: 100%;
+  }
+
+  /*  #title-tile {
+    height:150px;
+      /*width:100%;*/
+  /*    position:fixed;
+      top:0px  
+      z-index:100;
+  }*/
+
+  #tile-7 {
+    width: 100%;
+  }
+
+}
+
