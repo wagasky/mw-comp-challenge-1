@@ -22,23 +22,16 @@ Moving forward, I would like to style the carousel radio buttons to match the co
 
 crushwalls.org
 
-
 ## Built With
 
 This is a HTML and CSS only project.
 
 ## Authors
 
-* **Melissa Wagasky** - [PurpleBooth](https://github.com/PurpleBooth)
-
-
-Melissa is a Front End Development Student at the Turing School of Software & Design.
-
-## Licenses
-
-Icons (except for the RiNo Art Icon) are from flaticon.com. The license for their use can be found in the icons folder of this repo.
+* **Melissa Wagasky** - [Melissa Wagasky](https://github.com/wagasky)
 
 Melissa is a Front End Development Student at the Turing School of Software & Design.
+
 
 ## Licenses
 
