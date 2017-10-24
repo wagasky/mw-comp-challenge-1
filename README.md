@@ -7,9 +7,11 @@ One Paragraph of project description goes here. Our challenge was to replicate t
 
 
 
-Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. 
+Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. This is my desktop layout.
 
 ![static comp desktop layout](https://user-images.githubusercontent.com/24358415/31955616-26c9609e-b8a6-11e7-9295-532385955452.png)
+
+And this is my mobile layout at a 320px width.
 
 ![static comp mobile layout](https://user-images.githubusercontent.com/24358415/31955576-086e7030-b8a6-11e7-8944-93113c941423.png)
 
@@ -25,6 +27,14 @@ Moving forward, I would like to style the carousel radio buttons to match the co
 # About Colorado CRUSH
 
 crushwalls.org
+
+MISSION - CREATIVE RITUALS UNDER SOCIAL HARMONY
+
+CRUSH celebrates art, urban beautification, creativity, and culture by enriching a community through an arts festival like no other. We believe that public art leads to an improved community as a catalyst for safety, cleanliness, creativity, and conversation. Centered around empowering artists, CRUSH is committed to reflecting and diversifying the urban landscape and the unique voice of a community, bringing art out of the galleries and into the streets.
+
+CRUSH started and still finds its home in RiNo (River North) Art District which defines itself as a community "Where Art is Made”. CRUSH celebrates the craft of graffiti and street artists who bring life to walls while maintaining the unique cultural identity in this rapidly evolving community. The annual event transforms streets and alleys into the largest open-air galleries.
+
+CRUSH raises awareness of the cultural significance and importance of art for all ages and all demographics that may not have the opportunity to experience it otherwise. CRUSH offers art inspiration through this urban craft. The organization serves as a forum for community engagement and creative expression, inviting locals and visitors to engage in this rich history and through forward-thinking public art in Denver, Colorado. Join the experience during the annual event in Mid-September or visit the CRUSH Walls year round in the RiNo Art District area. 
 
 ## Built With
 
