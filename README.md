@@ -4,9 +4,6 @@ One Paragraph of project description goes here. Our challenge was to replicate t
 
 ![static-comp-challenge-1-mock](https://user-images.githubusercontent.com/24358415/31955613-23f7fc90-b8a6-11e7-882d-e6d5ed2327c8.jpg)
 
-
-
-
 Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. This is my desktop layout.
 
 ![static comp desktop layout](https://user-images.githubusercontent.com/24358415/31955616-26c9609e-b8a6-11e7-9295-532385955452.png)
@@ -41,11 +38,7 @@ CRUSH raises awareness of the cultural significance and importance of art for al
 This is a HTML and CSS only project.
 
 ## Authors
-
-* **Melissa Wagasky** - [Melissa Wagasky](https://github.com/wagasky)
-
-Melissa is a Front End Development Student at the Turing School of Software & Design.
-
+[Melissa Wagasky](https://github.com/wagasky) is a Front End Development Student at the Turing School of Software & Design.
 
 ## Licenses
 
