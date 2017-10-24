@@ -2,7 +2,7 @@
 
 One Paragraph of project description goes here. Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here:
 
-![alt text](images/static-comp-challenge-image.png "Static Comp")
+![static comp mobile layout](https://user-images.githubusercontent.com/24358415/31955576-086e7030-b8a6-11e7-8944-93113c941423.png)
 
 
 Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. 
