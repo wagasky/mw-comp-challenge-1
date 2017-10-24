@@ -9,7 +9,7 @@ One Paragraph of project description goes here. Our challenge was to replicate t
 
 Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. 
 
-
+![static comp desktop layout](https://user-images.githubusercontent.com/24358415/31955616-26c9609e-b8a6-11e7-9295-532385955452.png)
 
 ![static comp mobile layout](https://user-images.githubusercontent.com/24358415/31955576-086e7030-b8a6-11e7-8944-93113c941423.png)
 
