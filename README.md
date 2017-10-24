@@ -2,12 +2,16 @@
 
 One Paragraph of project description goes here. Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here:
 
-![static comp mobile layout](https://user-images.githubusercontent.com/24358415/31955576-086e7030-b8a6-11e7-8944-93113c941423.png)
+![static-comp-challenge-1-mock](https://user-images.githubusercontent.com/24358415/31955613-23f7fc90-b8a6-11e7-882d-e6d5ed2327c8.jpg)
+
+
 
 
 Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here. I kept the same layout, proportions, and ethos of the design. 
 
-![alt text](images/static-comp-challenge-image.png)
+
+
+![static comp mobile layout](https://user-images.githubusercontent.com/24358415/31955576-086e7030-b8a6-11e7-8944-93113c941423.png)
 
 I chose to recreate the comp for a local Non-Profit called Colorado CRUSH. I took a photo of a sample mural from the festival and sized it to work for both the desktop and mobile layouts. Because CRUSH is a grass-roots, community based Non-Profit, I chose to make their primary buttons about fundraising (support) and getting in touch. I then chose to focus the action of the site on learning more about the artists, the festivals, and visiting with virtual reality or in person. A common user issue for attendees is wanting to know who painted a mural and where that mural can be found - features not available on the current site. 
 
