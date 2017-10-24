@@ -51,10 +51,11 @@ Melissa is a Front End Development Student at the Turing School of Software & De
 
 Icons (except for the RiNo Art Icon) are from flaticon.com. The license for their use can be found in the icons folder of this repo.
 
-I created the RiNo ART icon from the RiNo Logo. Documentation about logo use here in the RiNo Art District Identity Guidelines https://rinoartdistrict.org/_files/docs/rino-logo-and-identity-guidelines.pdf.
+I created the RiNo ART icon from the RiNo Logo. Documentation about logo use here in the: 
+[RiNo Art District Guidelines](https://rinoartdistrict.org/_files/docs/rino-logo-and-identity-guidelines.pdf)
 
 ## Acknowledgments
 
-* Thank you to my classmates Amy https://github.com/amy-r for helping to style the photo I took and Ophus https://github.com/OphDub for helping to format the RiNo Art Logo.
+* Thank you to my classmates [Amy](https://github.com/amy-r) for helping to style the photo I took and [Ophus](https://github.com/OphDub) for helping to format the RiNo Art Logo.
 
 * To the Colorado CRUSH festival for all they do to celebrate beauty, creativity, and community.
