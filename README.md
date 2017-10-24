@@ -1,8 +1,9 @@
-# MW Static Comp Challenge !
+# MW Static Comp Challenge 1
 
-One Paragraph of project description goes here.
+One Paragraph of project description goes here. Our challenge was to replicate the static comp provided by the Turing Front-End Module 1 Program found here:
 
-# About the Challenge
+![alt text](/images/static-comp-challenge-image.png "Static Comp")
+
 
 # About Colorado CRUSH
 
@@ -10,30 +11,22 @@ One Paragraph of project description goes here.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+This is a HTML and CSS only project.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Melissa Wagasky** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Melissa is a Front End Development Student at the Turing School of Software & Design.
 
-## License
+## Licenses
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+Icons (except for the RiNo Art Icon) are from flaticon.com. The license for their use can be found in the icons folder of this repo.
+
+I created the RiNo ART icon from the RiNo Logo. Documentation about logo use here in the RiNo Art District Identity Guidelines https://rinoartdistrict.org/_files/docs/rino-logo-and-identity-guidelines.pdf.
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+* Thank you to my classmates Amy https://github.com/amy-r for helping to style the photo I took and Ophus https://github.com/OphDub for helping to format the RiNo Art Logo.
+
+* To the Colorado CRUSH festival for all they do to celebrate beauty, creativity, and community.
